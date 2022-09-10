@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/940418/cbe4228314af49a799544037d223341d
+bundleId: https://api.rpubs.com/api/v1/document/940418/cbe4228314af49a799544037d223341d
+url: http://rpubs.com/AnaSu/940418
+when: 1662809648.26068
+lastSyncTime: 1662809648.26069
